@@ -56,10 +56,5 @@ Here are some of the technologies I'm working with:
 <p align="left">
     <a href="https://www.linkedin.com/in/ruchit-das-3b6a8a252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  
+
   </p>
