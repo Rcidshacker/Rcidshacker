@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://images.steamusercontent.com/ugc/2022727906837038541/7B386684FC1AD99EA1E13EFC7601C84B490C2392/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" width="100">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </p>
 
 <h1 align="center">
