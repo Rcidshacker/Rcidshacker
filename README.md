@@ -247,7 +247,7 @@ A **Neuro-Symbolic RAG agent** inspired by Apple's CLaRa. Built with the "2026 S
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=A960FF&center=true&vCenter=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22+%E2%80%94+Alan+Kay" alt="Quote"/>
 
 </div>
 
