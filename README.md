@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6b21a8,100:a960ff&height=150&section=header&text=Ruchit%20Das&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=A960FF&center=true&vCenter=true&width=520&lines=AI+Engineer+%C2%B7+Agentic+Systems;I+don't+prompt+harder+%E2%80%94+I+harness+better;Building+reliable+AI%2C+one+verified+loop+at+a+time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=A960FF&center=true&vCenter=true&width=520&lines=AI+Engineer+%C2%B7+Agentic+Systems;Reliability+is+engineered%2C+not+prompted;Building+reliable+AI%2C+one+verified+loop+at+a+time" alt="Typing SVG"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=a960ff)](https://porfolio-eight-green.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=a960ff)](https://www.linkedin.com/in/ruchit-das-3b6a8a252)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=a960ff)](https://portfolio-2026-bice-three.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=a960ff)](https://www.linkedin.com/in/ruchit-das-ai)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0d1117?style=flat-square&logo=devdotto&logoColor=a960ff)](https://dev.to/rcids)
 
 </div>
